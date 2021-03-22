@@ -1,0 +1,3 @@
+[submodule "limits-service"]
+	path = limits-service
+	url = https://github.com/khabib97/limits-service.git
