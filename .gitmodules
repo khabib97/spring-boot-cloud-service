@@ -4,3 +4,6 @@
 [submodule "spring-cloud-config-server"]
 	path = spring-cloud-config-server
 	url = https://github.com/khabib97/spring-cloud-config-server.git
+[submodule "config-repo-spring-cloud-service"]
+	path = config-repo-spring-cloud-service
+	url = https://github.com/khabib97/config-repo-spring-cloud-service.git
